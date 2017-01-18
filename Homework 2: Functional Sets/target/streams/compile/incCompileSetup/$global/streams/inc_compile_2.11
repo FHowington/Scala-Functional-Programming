@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /Users/ap/Downloads/recfun/target/scala-2.11/classes
+output dir -> /Users/ap/Downloads/funsets/target/scala-2.11/classes
 compile options:
 1 items
 0 -> -deprecation
@@ -20,20 +20,33 @@ name hashing:
 1 items
 0 -> true
 products:
-7 items
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> /Users/ap/Downloads/recfun/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> /Users/ap/Downloads/recfun/target/scala-2.11/classes/common/package$.class
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> /Users/ap/Downloads/recfun/target/scala-2.11/classes/common/package.class
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> /Users/ap/Downloads/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> /Users/ap/Downloads/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$main$1.class
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> /Users/ap/Downloads/recfun/target/scala-2.11/classes/recfun/Main$.class
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> /Users/ap/Downloads/recfun/target/scala-2.11/classes/recfun/Main.class
+18 items
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/common/package$.class
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/common/package.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$1.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$2.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$diff$1.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$exists$1.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$filter$1.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$intersect$1.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$map$1$$anonfun$apply$mcZI$sp$1.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$map$1.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$singletonSet$1.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$union$1.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/Main$.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/Main$delayedInit$body.class
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/Main.class
 binary dependencies:
-4 items
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> /Users/ap/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> /Users/ap/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+6 items
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> /Users/ap/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> /Users/ap/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Users/ap/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -43,7 +56,8 @@ public inherited source dependencies:
 public inherited external dependencies:
 0 items
 member reference internal dependencies:
-0 items
+1 items
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> /Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -51,103 +65,142 @@ inheritance internal dependencies:
 inheritance external dependencies:
 0 items
 class names:
-7 items
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> common.package
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> common.package$
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> recfun.Main
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> recfun.Main$
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> recfun.Main$$anonfun$main$1
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> recfun.Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1
+18 items
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> common.package
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> common.package$
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$1
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$2
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$diff$1
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$exists$1
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$filter$1
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$intersect$1
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$map$1
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$map$1$$anonfun$apply$mcZI$sp$1
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$singletonSet$1
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets.FunSets$$anonfun$union$1
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> funsets.Main
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> funsets.Main$
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> funsets.Main$delayedInit$body
 used names:
-74 items
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> ::
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> <init>
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> <repeated>
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> Any
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> AnyRef
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> File
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> FileInputStream
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> InputStream
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> List
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> None
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> Nothing
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> Option
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> Predef
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> String
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> _root_
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> child
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> children
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> classesDir
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> common
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> exists
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> file
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> foldLeft
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> getClass
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> getParentFile
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> getResource
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> io
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> java
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> package
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> projectDir
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> resourceFile
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> resourcePath
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> scala
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> subFile
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> toURI
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> &&
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> +
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> -
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> <
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> <init>
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> ==
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> >
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> AnyRef
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> Array
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> Boolean
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> Char
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> Int
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> List
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> Main
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> Predef
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> String
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> Unit
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> c
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> chars
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> coins
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> col
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> count
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> countChange
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> foreach
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> head
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> intWrapper
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> isEmpty
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> money
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> package
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> pascal
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> print
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> println
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> r
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> recfun
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> row
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> scala
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> sumList
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> tail
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> to
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> unary_!
+90 items
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> ::
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> <init>
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> <repeated>
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> Any
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> AnyRef
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> File
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> FileInputStream
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> InputStream
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> List
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> None
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> Nothing
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> Option
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> Predef
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> String
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> _root_
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> child
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> children
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> classesDir
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> common
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> exists
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> file
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> foldLeft
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> getClass
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> getParentFile
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> getResource
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> io
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> java
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> package
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> projectDir
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> resourceFile
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> resourcePath
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> scala
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> subFile
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> toURI
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> &&
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> -
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> <
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> <init>
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> ==
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> AnyRef
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Boolean
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> FunSets
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Function1
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> IndexedSeq
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Int
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Predef
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Set
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> String
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> Unit
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> _root_
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> a
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> apply
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> bound
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> canBuildFrom
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> contains
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> elem
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> exists
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> f
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> forall
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> funsets
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> i
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> immutable
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> intWrapper
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> iter
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> map
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> mkString
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> p
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> println
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> s
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> scala
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> t
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> to
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> toString
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> unary_!
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> unary_-
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> withFilter
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> x
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> xs
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> y
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> ||
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> <init>
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> App
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> FunSets
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> Main
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> Predef
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> contains
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> funsets
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> println
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> scala
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> singletonSet
 product stamps:
-7 items
-/Users/ap/Downloads/recfun/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1481899653000)
-/Users/ap/Downloads/recfun/target/scala-2.11/classes/common/package$.class -> lastModified(1481899653000)
-/Users/ap/Downloads/recfun/target/scala-2.11/classes/common/package.class -> lastModified(1481899653000)
-/Users/ap/Downloads/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1481917043000)
-/Users/ap/Downloads/recfun/target/scala-2.11/classes/recfun/Main$$anonfun$main$1.class -> lastModified(1481917043000)
-/Users/ap/Downloads/recfun/target/scala-2.11/classes/recfun/Main$.class -> lastModified(1481917043000)
-/Users/ap/Downloads/recfun/target/scala-2.11/classes/recfun/Main.class -> lastModified(1481917043000)
+18 items
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1482078595000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/common/package$.class -> lastModified(1482078595000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/common/package.class -> lastModified(1482078595000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$1.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$2.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$diff$1.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$exists$1.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$filter$1.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$intersect$1.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$map$1$$anonfun$apply$mcZI$sp$1.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$map$1.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$singletonSet$1.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$$anonfun$union$1.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets$.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/FunSets.class -> lastModified(1483721640000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/Main$.class -> lastModified(1482078595000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/Main$delayedInit$body.class -> lastModified(1482078595000)
+/Users/ap/Downloads/funsets/target/scala-2.11/classes/funsets/Main.class -> lastModified(1482078595000)
 source stamps:
-2 items
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> hash(4888c8c6c485747500a1e8c94347fe42ab1a4794)
+3 items
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> hash(4ba3a6b57d1ce4abec9f08cfcf9b0efc5a1d2289)
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> hash(8c7bf1cf9788861c3e9855207de912db41e71cb0)
 binary stamps:
 2 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1459498886000)
@@ -157,21 +210,24 @@ class names:
 /Library/Java/JavaVirtualMachines/jdk1.8.0_91.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
 /Users/ap/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Boolean
 internal apis:
-2 items
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8AcHNxAH4AZHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGhzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhXNxAH4AeHQAA0FueXNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIR0AAVzY2FsYXEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZCBoqRnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADQvVXNlcnMvYXAvRG93bmxvYWRzL3JlY2Z1bi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUiFuPEqWyqD2tZY92zB/dZ4o41Kg=
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBi3/AcAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAtn3C50AAZub3RpZnlzcQB+AAwCBlwtdAAEd2FpdHNxAH4ADK3ZQpN0AA0kYXNJbnN0YW5jZU9mc3EAfgAM1ZV6QnQABmVxdWFsc3NxAH4ADIWa9B50AAxhc0luc3RhbmNlT2ZzcQB+AAwhh1/0dAAMc3luY2hyb25pemVkc3EAfgAMt/wxPnQADSRpc0luc3RhbmNlT2ZzcQB+AAw0t7ytdAAGcGFzY2Fsc3EAfgAMQGUzn3QAB2JhbGFuY2VzcQB+AAzCmPVwdAAEbWFpbnNxAH4ADOjQUlF0AAlub3RpZnlBbGxzcQB+AAxLooIQdAAMaXNJbnN0YW5jZU9mc3EAfgAM/Emh8HQAAj09c3EAfgAM9mD493QABWNsb25lc3EAfgAM1EELxXQABE1haW5zcQB+AAws/iaYdAAIdG9TdHJpbmdzcQB+AAxxnhCkdAACIT1zcQB+AAzJcn0IdAAIZ2V0Q2xhc3NzcQB+AAwHFErYdAALY291bnRDaGFuZ2VzcQB+AAxpqPM7dAACbmVzcQB+AAwIIdvSdAACZXFzcQB+AAy7FygLdAACIyNzcQB+AAxTffQCdAAIZmluYWxpemVzcQB+AAw9hpqQdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBHeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAALcmVjZnVuLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBgeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfAHBzcQB+AGRzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBoc3EAfgBfAHBzcQB+AGR1cQB+AEIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEhxAH4AUXVxAH4AUgAAAABzcQB+AFQAcQB+ACF1cQB+AFcAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgByeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBadAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB5WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBnc3EAfgB4dAAFQXJyYXlxAH4AfnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB4dAAGU3RyaW5nc3EAfgB8c3EAfgB/dXEAfgCCAAAAA3NxAH4AhHQABGphdmFzcQB+AIR0AARsYW5ncQB+AIlzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVxAH4AnQAAAAJzcQB+AHh0AAZPYmplY3RxAH4AoXNxAH4AeHQAA0FueXEAfgB+dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGcmVjZnVuc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZCSN113VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADQvVXNlcnMvYXAvRG93bmxvYWRzL3JlY2Z1bi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUSIjIxsSFdHUAoejJQ0f+QqsaR5Q=
+3 items
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8AcHNxAH4AZHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBHTAAJaW5oZXJpdGVkcQB+AEdMAAdwYXJlbnRzcQB+AEd4cQB+AGhzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVxAH4AQgAAAABzcQB+AF8AcHNxAH4AZHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AZ3QABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AZ3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AhHQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AhXNxAH4AeHQAA0FueXNxAH4AfHNxAH4Af3VxAH4AggAAAAJzcQB+AIR0AAVzY2FsYXEAfgCLdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZEsSkHnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADUvVXNlcnMvYXAvRG93bmxvYWRzL2Z1bnNldHMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCdZ35IAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAoboat0AAZub3RpZnlzcQB+AAy+MdkedAADU2V0c3EAfgAMuvttmHQABHdhaXRzcQB+AAxb/sE/dAANJGFzSW5zdGFuY2VPZnNxAH4ADIPUD8F0AAV1bmlvbnNxAH4ADEFrfCN0AAlpbnRlcnNlY3RzcQB+AAysPDNIdAAMc2luZ2xldG9uU2V0c3EAfgAMxhBWf3QAA21hcHNxAH4ADCVoCAF0AAZlcXVhbHNzcQB+AAwE9cwddAAMYXNJbnN0YW5jZU9mc3EAfgAMUcLEY3QADHN5bmNocm9uaXplZHNxAH4ADL+dItd0AA0kaXNJbnN0YW5jZU9mc3EAfgAMDzlounQABmZvcmFsbHNxAH4ADIa+Wg90AAhwcmludFNldHNxAH4ADMEvpW50AAlub3RpZnlBbGxzcQB+AAxk1Sm5dAAMaXNJbnN0YW5jZU9mc3EAfgAMkKSPwXQABmZpbHRlcnNxAH4ADDDAkAZ0AAVib3VuZHNxAH4ADIsUQl10AAdGdW5TZXRzc3EAfgAMXyGTVHQABGRpZmZzcQB+AAyHq54ydAACPT1zcQB+AAwXFJA4dAAFY2xvbmVzcQB+AAyTgkHodAAGZXhpc3Rzc3EAfgAMz/sXaHQACHRvU3RyaW5nc3EAfgAMqDbAsXQAAiE9c3EAfgAMDI7Jr3QACGdldENsYXNzc3EAfgAMrK9BlXQACGNvbnRhaW5zc3EAfgAMw+OPanQAAm5lc3EAfgAM1u/lQXQAAmVxc3EAfgAMCvGaf3QAAiMjc3EAfgAMhjq4P3QACGZpbmFsaXplc3EAfgAMZdYbe3QACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AV3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAD2Z1bnNldHMuRnVuU2V0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AbwFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AV0wACWluaGVyaXRlZHEAfgBXTAAHcGFyZW50c3EAfgBXeHEAfgB2c3EAfgBvAXVxAH4AUgAAAABwc3EAfgBvAXVxAH4AUgAAAABwc3EAfgBvAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdXQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AjnQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aj3NxAH4AgnQAA0FueXNxAH4AhnNxAH4AiXVxAH4AjAAAAAJzcQB+AI50AAVzY2FsYXEAfgCVcHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAdmdW5zZXRzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZdLNsfXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADUvVXNlcnMvYXAvRG93bmxvYWRzL2Z1bnNldHMvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEujprV9HOSr7J8Iz8+bDvxaHSKJ
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDW65wQAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJDxtSx0AAZub3RpZnlzcQB+AAyMFVfkdAAEd2FpdHNxAH4ADN+jv890AA0kYXNJbnN0YW5jZU9mc3EAfgAM9imiZ3QABmVxdWFsc3NxAH4ADABN5M50AAxhc0luc3RhbmNlT2ZzcQB+AAz8T7y4dAAOZXhlY3V0aW9uU3RhcnRzcQB+AAwkUA70dAAMc3luY2hyb25pemVkc3EAfgAMmJgHdnQADSRpc0luc3RhbmNlT2ZzcQB+AAzo6fF4dAAEbWFpbnNxAH4ADOTVZwV0AAlub3RpZnlBbGxzcQB+AAxa17DadAAMaXNJbnN0YW5jZU9mc3EAfgAMKCmJ/3QAAj09c3EAfgAMDq1OrnQABWNsb25lc3EAfgAM9g5US3QABE1haW5zcQB+AAy/5JCCdAAIdG9TdHJpbmdzcQB+AAziPp4hdAAEYXJnc3NxAH4ADPWqxWR0AAIhPXNxAH4ADJVMnDh0AAhnZXRDbGFzc3NxAH4ADNz6Bod0AAJuZXNxAH4ADO1tzcl0AAJlcXNxAH4ADNM1nzx0AAtkZWxheWVkSW5pdHNxAH4ADE1cpih0AAIjI3NxAH4ADOipE1d0AAhmaW5hbGl6ZXNxAH4ADMFU8Il0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AAxmdW5zZXRzLk1haW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBieHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBhAHBzcQB+AGZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AR0wACWluaGVyaXRlZHEAfgBHTAAHcGFyZW50c3EAfgBHeHEAfgBqc3EAfgBhAHBzcQB+AGZ1cQB+AEIAAAAAc3EAfgBhAHBzcQB+AGZ1cQB+AEIAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEhxAH4AUXVxAH4AUgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHd4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaXQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBpc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCRc3EAfgBUAHEAfgAfdXEAfgBXAAAAAHNxAH4AhHQABFVuaXRxAH4AinVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHd4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFp0AAVQbGFpbnEAfgAtc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCFWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBpc3EAfgCEdAAFQXJyYXlxAH4AinVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCEdAAGU3RyaW5nc3EAfgCIc3EAfgCLdXEAfgCOAAAAA3NxAH4AkHQABGphdmFzcQB+AJB0AARsYW5ncQB+AJVzcQB+AGEAcHNxAH4AZnVxAH4ArAAAAARzcQB+AIR0AANBcHBxAH4AinNxAH4AhHQAC0RlbGF5ZWRJbml0cQB+AIpzcQB+AIR0AAZPYmplY3RxAH4AsHNxAH4AhHQAA0FueXEAfgCKdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAHZnVuc2V0c3NyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWRLEpB51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA1L1VzZXJzL2FwL0Rvd25sb2Fkcy9mdW5zZXRzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSMe/HPl4iGHD6YVSB96RLbQeccsA==
 external apis:
 0 items
 source infos:
-2 items
-/Users/ap/Downloads/recfun/src/main/scala/common/package.scala -> 
+3 items
+/Users/ap/Downloads/funsets/src/main/scala/common/package.scala -> 
 AAAAAAAAAAA=
-/Users/ap/Downloads/recfun/src/main/scala/recfun/Main.scala -> 
+/Users/ap/Downloads/funsets/src/main/scala/funsets/FunSets.scala -> 
+AAAAAAAAAAA=
+/Users/ap/Downloads/funsets/src/main/scala/funsets/Main.scala -> 
 AAAAAAAAAAA=
 compilations:
-3 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWQgaKkZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANC9Vc2Vycy9hcC9Eb3dubG9hZHMvcmVjZnVuL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWQhsw891cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANC9Vc2Vycy9hcC9Eb3dubG9hZHMvcmVjZnVuL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
-2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWQkjddd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANC9Vc2Vycy9hcC9Eb3dubG9hZHMvcmVjZnVuL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWRLEpB51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANS9Vc2Vycy9hcC9Eb3dubG9hZHMvZnVuc2V0cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWXSzbH11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANS9Vc2Vycy9hcC9Eb3dubG9hZHMvZnVuc2V0cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==

@@ -1,0 +1,33 @@
+submit fot3@pitt.edu ni8S7PYn57IcPIPQ
+submit fot3@pitt.edu fqjeoB2UNq4088eH
+submit fot3@pitt.edu femVS4mhhorqCrE7
+submit fot3@pitt.edu H0oX7Tft9DKhgMaj
+submit fot3@pitt.edu CJWBkH27yafTSdvx
+submit fot3@pitt.edu 8mY948hP89rEJoGz
+submit fot3@pitt.edu   def findlocation2(charcount: List[(Char, List[Int])], char: Char, loc: Int): Int =
+    if (charcount.isEmpty) -1
+    else if (charcount.head._1 == char) loc
+    else findlocation2(charcount.tail, char, loc + 1)
+  def coniter(charcount: List[(Char, List[Int])], num: Int,nextNum:Int): List[(Char, List[Int])] =
+    if (num == 0) (charcount.head._1, charcount.head._2 :+ nextNum) :: charcount.tail
+    else charcount.head :: coniter(charcount.tail, num - 1,nextNum)
+  def iterall(charToIter: List[Char],charcount: List[(Char, List[Int])], nextnum: Int): List[(Char,List[Int])]={
+    if(charToIter.isEmpty) charcount
+    else iterall(charToIter.tail,coniter(charcount,findlocation2(charcount,charToIter.head,0),nextnum),nextnum)
+  }
+  def convertstart(chars: List[Char], acc: CodeTable): CodeTable={
+    if(chars.isEmpty) acc
+    else (chars.head,Nil) :: acc
+  }
+  def convert(tree: CodeTree): CodeTable = {
+    internal(tree,convertstart(chars(tree),Nil))
+    def internal(tre: CodeTree, acc: CodeTable):CodeTable={
+      (tre) match{
+        case tre: Leaf => acc
+        case tre: Fork => internal(tre.left,iterall(chars(tre.left),iterall(chars(tre.right),acc,1),0))
+      }
+    }
+submit fot3@pitt.edu wPCjPH8vPGAdKgF4
+submit fot3@pitt.edu gCwxpwUHDuiCOHQr
+submit fot3@pitt.edu Rbymnrtd9PBYmfqa
+submit fot3@pitt.edu fW8shzadbwwYxBE0
